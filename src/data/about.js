@@ -1,6 +1,6 @@
 export const intro = {
     title: 'title',
-    video: 'https://i.imgur.com/1yXkeZb.png'
+    video: 'https://img.upanh.tv/2024/08/02/updating-01.png'
 }
 
 export const authors = [
