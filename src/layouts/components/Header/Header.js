@@ -3,7 +3,7 @@ import styles from './Header.module.scss'
 import { RiEarthFill, RiMenuLine } from "@remixicon/react"
 import { Link } from 'react-router-dom'
 import config from '~/config'
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useState } from 'react'
 
 function Header() {
     const [menuActive, setMenuActive] = useState(false)
