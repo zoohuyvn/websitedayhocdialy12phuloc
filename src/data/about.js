@@ -1,6 +1,6 @@
 export const intro = {
     title: 'title',
-    video: 'https://img.upanh.tv/2024/08/02/updating-01.png'
+    video: ''
 }
 
 export const authors = [

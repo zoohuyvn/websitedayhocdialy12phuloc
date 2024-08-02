@@ -7,7 +7,10 @@ function About() {
         <div className={clsx(styles.wrapper)}>
             <div className={clsx('container', styles.instruct)}>
                 <h2 className={clsx(styles.instructTitle)}>Giới thiệu và hướng dẫn<br/>sử dụng website</h2>
-                <iframe className={clsx(styles.instructVideo)} width="700" height="400" src={intro.video} title={intro.title} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
+                {intro.video !== '' ?
+                    <iframe className={clsx(styles.instructVideo)} width="700" height="400" src={intro.video} title={intro.title} frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe> :
+                    <img className={clsx(styles.instructImage)} src='https://img.upanh.tv/2024/08/02/updating-01.png' alt='Đang cập nhật...'/>
+                }
             </div>
             <div className={styles.separate}></div>
             <div className={clsx('container', styles.authors)}>
