@@ -1,0 +1,156 @@
+https://websitedayhocdialy12phuloc.com/
+
+
+
+
+
+
+Bài 1: thêm liên kết ngoài đến bản đồ khu vực đna, châu á, thế giới
+Phần 1: https://cdn.diaocthongthai.com/map/continent/southeast-asia/political-map-8.png
+B1: click -> nổi bật lãnh thổ VN
+B2: nổi bật các điểm cực trên đất liền (ĐTNB) + thông tin
+B3: 6 độ 50p (điểm cực Nam) -> dóng đường ngang, 101 độ (điểm cực tây) -> 117 độ 20p (điểm cực đông) -> dóng 2 đường thẳng đứng
+B4: kẻ kinh tuyến 105 độ Đông chú thích là kinh tuyến giờ múi của VN (GMT+7) giữ lại B3
+B5: xác định vị trí tiếp giáp của VN trên đất liền (TQ - Bắc 1400km, Lào 2100km, Cam - Tây 1100km) lẻ -> tổng 4600km
+trên biển: 1 TQ, 2 Cam, 3 Philip, 4 Malai, 5 Brunay, 6 Indo, 7 Sin, 8 Thai giữ lại B3, 4
+Phần 2: https://cdn.diaocthongthai.com/map/continent/southeast-asia/political-map-8.png
+B1: Vùng đất VN (diện tích đất liền + đảo nổi) 331 nghìn km2 -> kẻ đường biên giới đất liền + nổi bật 2 đảo
+https://img.loigiaihay.com/picture/2018/0416/hinh-12-dia-12-ddn.jpg
+B2: Vùng biển VN
+- Móng cái -> đảo bạch long vĩ -> đảo cồn cỏ -> đảo lý sơn -> đảo phú quý -> đảo côn sơn -> đảo phú quốc
+hiện tab ND: đường cơ sở (tưởng tượng) +điểm trên đất liền nhô xa nhất về biển nối với các đảo ven bờ chạy lần lượt
+- trong đường cs (nội thủy)
+- từ đường cs -> kẻ đường song song cách 12 hải lý (lãnh hải) -> đường biên giới qg trên biển (chú thích)
+- tiếp nối ra 12 hải lý (tiếp giáp lãnh hải)
+- từ cs ra biển (200 hải lý) -> vùng đặc quyền kinh tế
+- từ đường bờ biển ra biển có độ sâu 200m là thềm lục địa của VN
+B3: vùng trời trên đất liền đường biên giới (máy bay ở rìa), trên biển (đường biên giới qg trên biển)
+
+
+
+
+
+
+Bài 2: 
+KHÍ HẬU liên kết: https://vi.wikipedia.org/wiki/Kh%C3%AD_h%E1%BA%ADu_Vi%E1%BB%87t_Nam
+B1: https://meeymap.com/tin-tuc/wp-content/uploads/2023/11/ban-do-khi-hau-Viet-Nam.jpg
+a. lượng bx mặt trời lớn và nhiệt độ tb năm cao: bản đồ nhiệt độ, khí hậu chung
+click trạm khí tượng -> hiển thị nd (giữ nd khi click qua trạm khác)
+b. lượng mưa, độ ẩm lớn: bản đồ lượng mưa, khí hậu chung
+click trạm khí tượng -> hiển thị nd (giữ nd khi click qua trạm khác)
+c. gió mùa:
+B1: gió tín phong bắc bán cầu: https://vietjack.me/storage/uploads/images/77/thap-1645245098.png + thêm bản đồ VN
+đưa ND:
++ nguồn gốc: cao áp chí tuyến
++ thời gian hđ: quanh năm
++ hướng gió: đông bắc
++ tính chất: ở VN (gió mùa đã lấn át tín phong vì thế tín phong hđ xen kẽ gió mùa và chỉ mạnh lên rõ rệt vào các thời kì chuyển tiếp giữa 2 mùa gió)
+B2: hình 2.1 gió mùa mùa đông đna trang 11
+nguồn gốc (nổi bật cao áp xi bia)
+hướng gió (đông bắc) (hiệu ứng động mũi tên xuống lãnh thổ VN)
+hiện ND: tính chất: đầu mùa lạnh khô, giữa và cuối mùa lạnh ẩm
++ tg hoạt động tháng 11 - 4
+B3: hình 2.2 gió mùa mùa hạ đna trang 12
+hiện ND:
+nguồn gốc: 2 nguồn
++ đầu mùa hạ: từ cao áp Bắc Ấn độ dương
++ giữa và cuối mùa hạ: cao áp cận chí tuyến Bán cầu Nam nam ấn độ dương + oxtraylia (nổi bật) (hiệu ứng động mũi tên xuống lãnh thổ VN)
+B4: bản đồ khí hậu: hình 2.3
+- mũi tên hướng gió động 2 (hạ đông)
+ĐỊA HÌNH: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_Vi%E1%BB%87t_Nam#:~:text=Vi%E1%BB%87t%20Nam%20l%C3%A0%20m%E1%BB%99t%20qu%E1%BB%91c,chi%E1%BA%BFm%20t%E1%BB%9Bi%2085%25%20di%E1%BB%87n%20t%C3%ADch.
+một số hình ảnh về địa hình các xto VN
+SÔNG NGÒI: https://vi.wikipedia.org/wiki/S%C3%B4ng_Vi%E1%BB%87t_Nam
+https://dhland.net/wp-content/uploads/2021/05/ban-do-song-ngoi-viet-nam.jpg
+ĐẤT VÀ SINH VẬT: https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam#:~:text=Nh%C3%ACn%20chung%2C%20h%E1%BB%87%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt,ch%C3%B3%20r%E1%BB%ABng%2C%20t%E1%BA%AFc%20k%C3%A8).
+https://onthidialy.com/wp-content/uploads/2014/07/11.png?w=597&h=831
+https://onthidialy.com/wp-content/uploads/2014/07/12.png?w=602&h=843
+
+
+
+
+
+
+
+
+
+Bài 3:
+1. thiên nhiên phân hóa theo chiều bắc nam: https://vi.wikipedia.org/wiki/Kh%C3%AD_h%E1%BA%ADu_Vi%E1%BB%87t_Nam#:~:text=%E1%BB%9E%20Vi%E1%BB%87t%20Nam%2C%20ho%C3%A0n%20l%C6%B0u,10)%20l%C3%A0%20m%C3%B9a%20chuy%E1%BB%83n%20ti%E1%BA%BFp.
+https://cdn.vungoi.vn/vungoi/1540455457673_Trang-6-7-hinh-the.jpg
+nổi bật dãy BM: ranh giới phân chia
+đưa mũi tên chỉ ra miền Bắc, nam
+miền bắc
+- vị trí giới hạn: từ dãy BM trở ra bắc
+- đặc điểm khí hậu:
++ kiểu khí hậu: nhiệt đới ẩm gió mùa, có 1 mùa đông lạnh
++ nhiệt độ tb năm: trên 20 độ C, có 2 - 3 tháng nhiệt độ < 18 độ C
++ biên độ nhiệt: cao
++ phân mùa: mùa đông, hè
++ cảnh quan thiên nhiên tiêu biểu: đới rừng nhiệt đới gió mùa
+miền nam
+- vị trí giới hạn: từ dãy BM trở vào nam
+- đặc điểm khí hậu:
++ kiểu khí hậu: cận xích đạo gió mùa, nóng quanh năm
++ nhiệt độ tb năm: trên 25 độ C, ko có tháng nào nhiệt độ < 20 độ C
++ biên độ nhiệt: thấp
++ phân mùa: mùa mưa, khô
++ cảnh quan thiên nhiên tiêu biểu: đới rừng cận xích đạo gió mùa
+2. thiên nhiên phân hóa theo chiều đông tây: https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n#:~:text=T%E1%BB%95ng%20quan-,D%C3%A3y%20n%C3%BAi%20Tr%C6%B0%E1%BB%9Dng%20S%C6%A1n%2C%20ho%E1%BA%B7c%20g%E1%BB%8Di%20d%C3%A3y%20n%C3%BAi%20Trung%20K%C3%AC,ranh%20gi%E1%BB%9Bi%20Vi%E1%BB%87t%20Nam%20v%C3%A0
+https://vietjack.me/storage/uploads/images/7/7-1634744387.png
+kẻ 1 đường ven lãnh thổ: vùng biển và thềm lục địa phía đông
+kẻ 1 đường ven đồng bằng: -> ở giữa là vùng đb ven biển
+bên trong là vùng đồi núi phía tây
+3. thiên nhiên phân hóa theo độ cao: https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ho%C3%A0ng_Li%C3%AAn_S%C6%A1n#:~:text=Ho%C3%A0ng%20Li%C3%AAn%20S%C6%A1n%20(ch%E1%BB%AF%20Anh,bi%E1%BA%BFn%20ch%E1%BA%A5t%20kh%C3%A1c%20h%E1%BB%A3p%20th%C3%A0nh.
+https://vietjack.com/vth-dia-li-8-kn/images/cau-14-trang-11-vth-dia-li-8.PNG
+II. các miền đli tự nhiên: https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_Vi%E1%BB%87t_Nam#C%C3%A1c_mi%E1%BB%81n_t%E1%BB%B1_nhi%C3%AAn
+https://img.loigiaihay.com/picture/2018/0416/hinh-18-dia-12-ddn.jpg
+nổi bật ranh giới các miền -> hiển thị tên các miền
+(đưa hình 3.2, 3.3, 3.4 SGK)
+
+
+
+
+
+
+
+
+
+
+
+
+BÀI 4:
+sơ đồ tư duy (c Hoa thiết kế) - xuất hiện lần lượt
+
+
+
+
+
+
+
+
+
+BÀI 5:
+1. Tài nguyên đất (hiện trạng sử dụng)
+B1: đưa bảng số liệu bề diện tích sử dụng đất của VN năm 2022 (đơn vị : ha)
+các loại đất | diện tích | tỉ lệ
+tổng: 33.134.482
+- đất nn: 28.002.574
+- đất lâm nghiệp: 15.467.658
+- đất chuyên dùng và đất ở: 2.767.614
+- đất chưa sử dụng và đất khác: 1.577.149
+(Ban hành kèm theo Quyết định số /QĐ-BTNMT ngày tháng năm 2023 của Bộ trưởng Bộ Tài nguyên và Môi trường)
+https://monre.gov.vn/VanBan/Lists/VanBanChiDao/Attachments/3012/b4_Signed.pdf
+B2: đưa bảng số liệu bề diện tích sử dụng đất của VN năm 2022 (đơn vị : ha) theo vùng
+2. tài nguyên sinh vật: https://vi.wikipedia.org/wiki/Danh_m%E1%BB%A5c_s%C3%A1ch_%C4%91%E1%BB%8F_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam
+- tn rừng:
+bảng 5 trang 29 SGK
+ghép 2 cái lại
+https://imagev3.vietnamplus.vn/w1000/Uploaded/2024/bokttj/2020_05_10/frjpg.png.webp: bản đồ
+https://imagev3.vietnamplus.vn/w1300/Uploaded/2024/bokttj/2023_06_23/infographics_rung_viet_nam.jpg.webp: số liệu
+- đa dạng sinh học: https://vi.wikipedia.org/wiki/H%E1%BB%87_%C4%91%E1%BB%99ng_v%E1%BA%ADt_Vi%E1%BB%87t_Nam#:~:text=Nh%C3%ACn%20chung%2C%20h%E1%BB%87%20%C4%91%E1%BB%99ng%20v%E1%BA%ADt,ch%C3%B3%20r%E1%BB%ABng%2C%20t%E1%BA%AFc%20k%C3%A8).
+https://onthidialy.com/wp-content/uploads/2014/07/12.png?w=602&h=843
+sự đa dạng thành phần loài và sự suy giảm số lượng loài thực vật, động vật VN
+https://images.tuyensinh247.com/picture/2017/0213/cau-22-de-15.png
+3. tài nguyên nước: https://vi.wikipedia.org/wiki/T%C3%A0i_nguy%C3%AAn_n%C6%B0%E1%BB%9Bc, https://dantri.com.vn/xa-hoi/nhung-dong-song-chet-trong-long-thanh-pho-ha-noi-20230215011333986.htm
+https://maylocnuocsmartviet.com/wp-content/uploads/2022/01/nhung-con-so-biet-noi-ve-o-nhiem-nguon-nuoc-tai-viet-nam-4.jpg
+http://vnmha.gov.vn/upload/images/bai-viet/2020/Thang_6/20(1).JPG
+Hình 4: Chỉ số SPI đánh giá tình trạng ẩm ướt và khô hạn giai đoạn từ 16-22/6/2020. Gam mầu xanh là điều kiện ẩm, gam mầu vàng – đỏ là điều kiện khô hạn

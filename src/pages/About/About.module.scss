@@ -1,0 +1,135 @@
+.wrapper {
+    margin-top: var(--header-height);
+}
+
+.instruct, .authors, .license {
+    padding-top: 70px;
+
+    @media only screen and (max-width: 46.1875em) {
+        padding-top: 50px;
+    }
+}
+
+.instruct {
+    text-align: center;
+
+    .instructTitle {
+        font-family: var(--pri-font-family);
+        font-size: 4rem;
+        line-height: 1.4;
+        font-weight: 800;
+    }
+    
+    .instructVideo {
+        margin-top: 40px;
+    }
+
+    @media only screen and (max-width: 46.1875em) {
+
+        .instructTitle {
+            font-size: 3rem;
+            line-height: 1.3;
+        }
+        
+        .instructVideo {
+            margin-top: 30px;
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
+
+.authorsTitle, .licenseTitle {
+    font-family: var(--pri-font-family);
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+    @media only screen and (max-width: 46.1875em) {
+        font-size: 2.8rem;
+    }
+}
+
+.authors {
+
+    .authorsTitle {
+        margin-bottom: 30px;
+    }
+    
+    .authorsLi {
+        display: flex;
+
+        @media only screen and (max-width: 46.1875em) {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        & + .authorsLi {
+            margin-top: 30px;
+
+            @media only screen and (max-width: 46.1875em) {
+                margin-top: 40px;
+            }
+        }
+
+        img {
+            width: 140px;
+            height: 140px;
+            object-fit: cover;
+            border-radius: 4px;
+        }
+
+        .authorsLiInfo {
+            margin-left: 30px;
+
+            @media only screen and (max-width: 46.1875em) {
+                margin-left: 0;
+                margin-top: 20px;
+                text-align: center;
+            }
+
+            h3 {
+                font-family: var(--pri-font-family);
+                font-size: 2.2rem;
+                font-weight: 700;
+            }
+
+            p {
+                color: #525252;
+                margin-top: 8px;
+
+                @media only screen and (max-width: 46.1875em) {
+                    margin-top: 6px;
+                }
+
+                span {
+                    font-weight: 700;
+                    color: var(--text-cl);
+                }
+            }
+        }
+    }
+}
+
+.license {
+    
+    p {
+        color: #525252;
+
+        span {
+            font-weight: 700;
+        }
+    }
+}
+
+.separate {
+    width: 100%;
+    height: 1px;
+    background-color: var(--bor-cl);
+    margin-top: 80px;
+
+    @media only screen and (max-width: 46.1875em) {
+        margin-top: 60px;
+    }
+}

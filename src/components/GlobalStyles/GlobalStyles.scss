@@ -1,0 +1,84 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+// Variables
+:root {
+    --pri: #ff84cf;
+    --sec: #5f67ef;
+    --black: #000;
+    --white: #fff;
+    --gray-cl: #737373;
+    --text-cl: #171717;
+    --bor-cl: #e5e5e5;
+    --pri-font-family: "Lexend", sans-serif;
+    --sec-font-family: "Segoe UI", sans-serif;
+    --header-height: 88px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: var(--sec-font-family);
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+    color: var(--text-cl);
+    overflow-y: overlay;
+}
+
+.container {
+    max-width: 1312px;
+    margin-left: auto;
+    margin-right: auto;
+
+    @media only screen and (max-width: 46.1875em) {
+        max-width: 300px;
+    }
+
+    @media only screen and (min-width: 46.25em) and (max-width: 63.9375em) {
+        max-width: 700px;
+    }
+}
+
+html *::-webkit-scrollbar {
+    border-radius: 0;
+    width: 8px;
+}
+
+html *::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.15);
+}
+
+html *::-webkit-scrollbar-track {
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+button, input, [tabindex] {
+    font-family: var(--pri-font-family);
+    border: none;
+    outline: none;
+}
+
+::selection {
+    color: var(--pri);
+    background-color: var(--sec);
+}
+
+a {
+    color: var(--text-cl);
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+}
