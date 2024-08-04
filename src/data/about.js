@@ -1,18 +1,18 @@
 export const intro = {
     title: 'title',
-    video: ''
+    video: 'https://www.youtube.com/embed/r_cfiQs6iFU'
 }
 
 export const authors = [
     {
         id: 1,
-        image: 'https://placehold.co/160',
+        image: 'https://i.imgur.com/ovC8bE5.jpeg',
         name: 'ThS. Lê Thị Hoa',
         school: 'Trường THPT Phú Lộc'
     },
     {
         id: 2,
-        image: 'https://placehold.co/160',
+        image: 'https://i.imgur.com/bdFaGiz.jpeg',
         name: 'GV. Lê Thị Liên Hương',
         school: 'Trường THCS Thị Trấn Phú Lộc'
     }
