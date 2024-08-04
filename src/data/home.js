@@ -45,9 +45,9 @@ export const data = [
                         <br/><p>
                             <b>Tham khảo:</b>
                             <ul>
-                                <li><a href='https://earth.google.com/web/search/Southeast+Asia' target='_blank' rel='noreferrer'>Bản đồ Đông Nam Á</a></li>
-                                <li><a href='https://earth.google.com/web/search/Asia' target='_blank' rel='noreferrer'>Bản đồ Châu Á</a></li>
-                                <li><a href='https://earth.google.com/web' target='_blank' rel='noreferrer'>Bản đồ thế giới</a></li>
+                                <li><a href='https://i.imgur.com/sdds6bx.png' target='_blank' rel='noreferrer'>Bản đồ Đông Nam Á</a></li>
+                                <li><a href='https://i.imgur.com/G1jKltT.png' target='_blank' rel='noreferrer'>Bản đồ Châu Á</a></li>
+                                <li><a href='https://i.imgur.com/vMJbDHM.png' target='_blank' rel='noreferrer'>Bản đồ thế giới</a></li>
                             </ul>
                         </p>
                     </div>
