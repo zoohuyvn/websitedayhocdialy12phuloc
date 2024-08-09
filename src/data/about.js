@@ -1,6 +1,6 @@
 export const intro = {
     title: 'title',
-    video: 'https://www.youtube.com/embed/r_cfiQs6iFU'
+    video: 'https://player.vimeo.com/video/996577547?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479'
 }
 
 export const authors = [
