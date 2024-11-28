@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Digital learning website for Geography 12
+Project submission for the 2nd Digital Learning Equipment Development Competition in 2024, Thua Thien Hue province.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📍 Features
+- Learning with embed PowerPoint slides
+- Assessment test after each lesson with answer check
 
-## Available Scripts
+## 📃Example
+<p>
+  <img title='Home page' src="./Screenshots/home.png" width="49%"/>
+  <img title='About page' style='float: right' src="./Screenshots/about.png" width="49%"/>
+</p>
+<p>
+  <img title='About page 2' src="./Screenshots/about-2.png" width="49%"/>
+  <img title='Learning page' style='float: right' src="./Screenshots/learning.png" width="49%"/>
+</p>
+<p>
+  <img title='Assessment test page' src="./Screenshots/test.png" width="49%"/>
+</p>
 
-In the project directory, you can run:
+## 🛠️ Built with
+- Javascript (ReactJS)
 
-### `npm start`
+## ⚙️ Installation
+### 1. Clone repository
+```bash
+git clone https://github.com/zoohuyvn/websitedayhocdialy12phuloc.git
+```
+### 2. Install environment
+- Node.js v22.11.0
+    - [Windows](https://nodejs.org/dist/v22.11.0/node-v22.11.0-x64.msi)
+    - [macOS](https://nodejs.org/dist/v22.11.0/node-v22.11.0.pkg)
+### 3. Open in IDE
+You can open the project with an IDE like IntelliJ IDEA, Visual Studio Code, etc. Here I use [VS Code (v1.95)](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user).<br>
+Open VS Code, click `File/Open Folder` and browse to directory you cloned.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 👉 Usage
+Access to project folder, then run:<br>
+```bash
+npm i
+```
+```bash
+npm start
+```
+Website will run on default url: [`http://localhost:3000`](http://localhost:3000).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🫂 Contributing
+If you'd like to contribute, fork the repository and use a feature branch.
 
-### `npm test`
+## 📄 License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🥹 Acknowledgments
+I'm look forward to receiving feedback as I develop further. Thanks for viewing my project ✨.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ✨ Support
+Give a ⭐ if this project helped you!<br><br>
+<a href='https://www.buymeacoffee.com/zoohuyvn' target='_blank'><img style='height: 34px' src='https://i.imgur.com/Y2Ta2iz.png'/></a>
